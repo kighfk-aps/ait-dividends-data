@@ -1,32 +1,10 @@
 {
-  "updatedAt": "2026-09-01T23:16:54.721Z",
+  "updatedAt": "2026-10-02T00:44:22.236Z",
   "quotes": {
-    "105560": {
-      "yieldBand": "low",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.kbfg.com/"
-    },
-    "138040": {
-      "yieldBand": "low",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.meritzfn.com/"
-    },
-    "138930": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.bnkfg.com/"
-    },
     "161510": {
       "yieldBand": "mid",
       "stability": "stable",
       "trend": [
-        76,
         76,
         76,
         76,
@@ -37,23 +15,16 @@
         83,
         83,
         100,
+        100,
         100
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.plusetf.co.kr/"
     },
-    "175330": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.jbfg.com/"
-    },
     "182480": {
       "yieldBand": "mid",
       "stability": "variable",
       "trend": [
-        92,
         90,
         40,
         100,
@@ -64,7 +35,8 @@
         38,
         92,
         92,
-        40
+        40,
+        90
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.tigeretf.com/ko/"
@@ -99,11 +71,11 @@
         7,
         7,
         7,
-        7,
         5,
         5,
         7,
         100,
+        5,
         5,
         5,
         5,
@@ -119,13 +91,13 @@
         90,
         90,
         90,
-        90,
         96,
         96,
         96,
         96,
         96,
         96,
+        100,
         100,
         100
       ],
@@ -149,7 +121,6 @@
       "stability": "stable",
       "trend": [
         70,
-        70,
         66,
         66,
         59,
@@ -159,17 +130,11 @@
         92,
         100,
         100,
+        100,
         100
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.samsungfund.com/etf/product/list.do"
-    },
-    "316140": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.woorifg.com/"
     },
     "329200": {
       "yieldBand": "high",
@@ -195,7 +160,6 @@
       "yieldBand": "low",
       "stability": "variable",
       "trend": [
-        83,
         70,
         40,
         100,
@@ -206,7 +170,8 @@
         51,
         75,
         94,
-        47
+        47,
+        66
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.aceetf.co.kr/"
@@ -215,7 +180,6 @@
       "yieldBand": "high",
       "stability": "stable",
       "trend": [
-        89,
         90,
         93,
         95,
@@ -226,7 +190,8 @@
         97,
         98,
         100,
-        99
+        99,
+        93
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.samsungfund.com/etf/product/list.do"
@@ -235,7 +200,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        86,
         91,
         93,
         93,
@@ -246,6 +210,7 @@
         98,
         100,
         93,
+        90,
         90
       ],
       "currency": "KRW",
@@ -255,7 +220,6 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
-        83,
         81,
         83,
         88,
@@ -266,7 +230,8 @@
         79,
         100,
         83,
-        64
+        64,
+        88
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.soletf.com/"
@@ -275,7 +240,6 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
-        84,
         67,
         84,
         89,
@@ -286,7 +250,8 @@
         80,
         100,
         82,
-        67
+        67,
+        87
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.tigeretf.com/ko/product/search/detail/index.do?ksdFund=KR7458730004"
@@ -295,7 +260,6 @@
       "yieldBand": "high",
       "stability": "stable",
       "trend": [
-        92,
         85,
         68,
         99,
@@ -306,7 +270,8 @@
         84,
         93,
         92,
-        81
+        81,
+        88
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.tigeretf.com/ko/"
@@ -315,7 +280,6 @@
       "yieldBand": "high",
       "stability": "stable",
       "trend": [
-        55,
         56,
         53,
         100,
@@ -326,7 +290,8 @@
         65,
         65,
         62,
-        59
+        59,
+        58
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.aceetf.co.kr/"
@@ -335,17 +300,17 @@
       "yieldBand": "mid",
       "stability": "stable",
       "trend": [
-        72,
-        72,
-        72,
-        72,
-        73,
-        87,
-        87,
-        87,
-        87,
-        87,
-        100,
+        69,
+        69,
+        69,
+        70,
+        84,
+        84,
+        84,
+        84,
+        84,
+        96,
+        96,
         100
       ],
       "currency": "KRW",
@@ -355,7 +320,6 @@
       "yieldBand": "very-high",
       "stability": "variable",
       "trend": [
-        65,
         62,
         100,
         88,
@@ -366,6 +330,7 @@
         58,
         65,
         50,
+        46,
         46
       ],
       "currency": "KRW",
@@ -373,9 +338,8 @@
     },
     "475720": {
       "yieldBand": "very-high",
-      "stability": "variable",
+      "stability": "stable",
       "trend": [
-        51,
         57,
         57,
         57,
@@ -386,6 +350,7 @@
         95,
         100,
         84,
+        86,
         86
       ],
       "currency": "KRW",
@@ -393,20 +358,20 @@
     },
     "476800": {
       "yieldBand": "high",
-      "stability": "stable",
+      "stability": "variable",
       "trend": [
-        100,
-        97,
-        91,
-        85,
-        85,
-        85,
-        85,
-        88,
-        88,
-        85,
-        85,
-        85
+        55,
+        52,
+        48,
+        48,
+        48,
+        48,
+        50,
+        50,
+        48,
+        48,
+        48,
+        100
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.samsungfund.com/etf/product/list.do"
@@ -415,7 +380,6 @@
       "yieldBand": "very-high",
       "stability": "variable",
       "trend": [
-        56,
         57,
         60,
         60,
@@ -426,7 +390,8 @@
         62,
         100,
         97,
-        91
+        91,
+        83
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.aceetf.co.kr/"
@@ -435,7 +400,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        100,
         100,
         95,
         95,
@@ -446,6 +410,7 @@
         91,
         90,
         90,
+        85,
         85
       ],
       "currency": "KRW",
@@ -456,17 +421,17 @@
       "stability": "stable",
       "trend": [
         88,
-        93,
-        92,
-        92,
-        93,
-        90,
-        90,
-        94,
-        100,
-        100,
-        94,
-        93
+        87,
+        87,
+        88,
+        85,
+        85,
+        89,
+        95,
+        95,
+        89,
+        88,
+        100
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.tigeretf.com/ko/"
@@ -475,7 +440,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        68,
         69,
         70,
         72,
@@ -486,7 +450,8 @@
         83,
         82,
         100,
-        78
+        78,
+        74
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.samsungfund.com/etf/product/list.do"
@@ -495,17 +460,17 @@
       "yieldBand": "mid",
       "stability": "variable",
       "trend": [
+        80,
+        60,
+        48,
+        49,
+        55,
+        73,
         84,
-        85,
-        64,
-        51,
-        52,
-        58,
-        77,
-        88,
-        91,
-        91,
-        100,
+        86,
+        86,
+        95,
+        95,
         100
       ],
       "currency": "KRW",
@@ -515,7 +480,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        85,
         90,
         88,
         89,
@@ -526,7 +490,8 @@
         100,
         99,
         89,
-        86
+        86,
+        88
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.tigeretf.com/ko/"
@@ -535,7 +500,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        95,
         87,
         88,
         87,
@@ -546,7 +510,8 @@
         72,
         58,
         66,
-        63
+        63,
+        60
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.plusetf.co.kr/"
@@ -555,7 +520,6 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
-        70,
         78,
         53,
         83,
@@ -566,7 +530,8 @@
         65,
         73,
         100,
-        93
+        93,
+        60
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.samsungfund.com/etf/product/list.do"
@@ -575,7 +540,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        89,
         92,
         90,
         93,
@@ -586,7 +550,8 @@
         98,
         100,
         90,
-        82
+        82,
+        81
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.samsungfund.com/etf/product/list.do"
@@ -595,7 +560,6 @@
       "yieldBand": "very-high",
       "stability": "variable",
       "trend": [
-        46,
         49,
         56,
         56,
@@ -606,7 +570,8 @@
         99,
         100,
         92,
-        77
+        77,
+        86
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.samsungfund.com/etf/product/view.do?id=2ETFK9"
@@ -615,8 +580,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        63,
-        63,
         67,
         78,
         82,
@@ -626,7 +589,8 @@
         84,
         80,
         90,
-        100
+        100,
+        97
       ],
       "currency": "USD",
       "disclosureUrl": "https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-nasdaq-equity-premium-income-etf-etf-shares-46654q203"
@@ -635,8 +599,6 @@
       "yieldBand": "high",
       "stability": "stable",
       "trend": [
-        82,
-        81,
         77,
         83,
         95,
@@ -646,7 +608,8 @@
         100,
         87,
         86,
-        82
+        82,
+        83
       ],
       "currency": "USD",
       "disclosureUrl": "https://am.jpmorgan.com/us/en/asset-management/adv/products/jpmorgan-equity-premium-income-etf-jepi-etf-shares-46641q332"
@@ -655,10 +618,10 @@
       "yieldBand": "mid",
       "stability": "stable",
       "trend": [
-        94,
         100,
         92,
-        91
+        91,
+        96
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.schwabassetmanagement.com/products/schd"
@@ -667,10 +630,10 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
-        86,
         97,
         88,
-        100
+        100,
+        91
       ],
       "currency": "USD",
       "disclosureUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vym"
@@ -679,10 +642,10 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
-        87,
         89,
         83,
-        100
+        100,
+        93
       ],
       "currency": "USD",
       "disclosureUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vig"
@@ -691,10 +654,10 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
-        83,
         100,
         74,
-        74
+        74,
+        86
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.ishares.com/us/products/239727/"
@@ -703,10 +666,10 @@
       "yieldBand": "mid",
       "stability": "stable",
       "trend": [
-        89,
         100,
         82,
-        99
+        99,
+        94
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-portfolio-sp-500-high-dividend-etf-spyd"
@@ -715,12 +678,12 @@
       "yieldBand": "mid",
       "stability": "variable",
       "trend": [
-        76,
         100,
         67,
         74,
         35,
-        42
+        42,
+        22
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.ishares.com/us/products/239471/"
@@ -729,10 +692,10 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
-        83,
         100,
         77,
-        92
+        92,
+        85
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.proshares.com/"
@@ -741,7 +704,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        92,
         93,
         93,
         96,
@@ -752,7 +714,8 @@
         96,
         100,
         96,
-        99
+        99,
+        95
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.globalxetfs.com/funds/qyld/"
@@ -761,7 +724,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        74,
         97,
         98,
         80,
@@ -772,7 +734,8 @@
         98,
         83,
         100,
-        76
+        76,
+        73
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.globalxetfs.com/funds/xyld/"
@@ -783,7 +746,6 @@
       "trend": [
         92,
         92,
-        92,
         94,
         95,
         96,
@@ -792,7 +754,8 @@
         95,
         98,
         97,
-        100
+        100,
+        89
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.globalxetfs.com/funds/ryld/"
@@ -801,7 +764,6 @@
       "yieldBand": "high",
       "stability": "variable",
       "trend": [
-        19,
         19,
         22,
         100,
@@ -812,6 +774,7 @@
         19,
         19,
         20,
+        20,
         20
       ],
       "currency": "USD",
@@ -821,7 +784,6 @@
       "yieldBand": "mid",
       "stability": "stable",
       "trend": [
-        81,
         83,
         89,
         94,
@@ -832,7 +794,8 @@
         95,
         96,
         98,
-        100
+        100,
+        92
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-portfolio-sp-500-high-dividend-low-volatility-etf-sphd"
@@ -844,8 +807,8 @@
         99,
         99,
         99,
-        100,
-        100,
+        99,
+        99,
         100,
         100,
         100,
@@ -861,8 +824,6 @@
       "yieldBand": "high",
       "stability": "stable",
       "trend": [
-        85,
-        100,
         87,
         87,
         87,
@@ -872,7 +833,9 @@
         87,
         100,
         88,
-        88
+        88,
+        88,
+        100
       ],
       "currency": "USD",
       "disclosureUrl": "https://www.mainstcapital.com/"
@@ -884,7 +847,7 @@
         32,
         32,
         32,
-        32,
+        100,
         100,
         100
       ],
@@ -907,9 +870,9 @@
       "yieldBand": "high",
       "stability": "stable",
       "trend": [
-        100,
-        100,
-        100,
+        95,
+        95,
+        95,
         100
       ],
       "currency": "USD",
@@ -920,7 +883,7 @@
       "stability": "stable",
       "trend": [
         96,
-        96,
+        100,
         100,
         100
       ],
@@ -928,7 +891,7 @@
       "disclosureUrl": "https://www.coca-colacompany.com/investors"
     },
     "0104N0": {
-      "yieldBand": "mid",
+      "yieldBand": "high",
       "stability": "variable",
       "trend": [
         44,
@@ -941,7 +904,8 @@
         97,
         100,
         97,
-        79
+        79,
+        89
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.tigeretf.com/ko/"
@@ -950,7 +914,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        90,
         91,
         92,
         95,
@@ -961,6 +924,7 @@
         99,
         100,
         95,
+        90,
         90
       ],
       "currency": "KRW",
@@ -970,7 +934,6 @@
       "yieldBand": "very-high",
       "stability": "stable",
       "trend": [
-        84,
         81,
         87,
         87,
@@ -981,7 +944,8 @@
         92,
         80,
         80,
-        79
+        79,
+        78
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.plusetf.co.kr/"
@@ -990,7 +954,6 @@
       "yieldBand": "low",
       "stability": "variable",
       "trend": [
-        80,
         55,
         85,
         90,
@@ -1001,7 +964,8 @@
         70,
         85,
         55,
-        60
+        60,
+        70
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.aceetf.co.kr/"
@@ -1010,24 +974,24 @@
       "yieldBand": "mid",
       "stability": "stable",
       "trend": [
-        79,
-        82,
-        82,
-        82,
-        84,
-        84,
-        95,
-        95,
-        95,
-        95,
-        95,
+        76,
+        76,
+        76,
+        77,
+        77,
+        88,
+        88,
+        88,
+        88,
+        88,
+        92,
         100
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.tigeretf.com/ko/"
     },
     "0139P0": {
-      "yieldBand": "low",
+      "yieldBand": "mid",
       "stability": "stable",
       "trend": [
         42,
@@ -1038,17 +1002,19 @@
         100,
         100,
         100,
+        100,
         100
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.aceetf.co.kr/"
     },
     "0105E0": {
-      "yieldBand": "mid",
+      "yieldBand": "high",
       "stability": "stable",
       "trend": [
         100,
         64,
+        63,
         63,
         63,
         63,
@@ -1065,11 +1031,12 @@
       "yieldBand": "low",
       "stability": "stable",
       "trend": [
+        68,
         70,
-        72,
-        87,
-        91,
-        96,
+        85,
+        89,
+        94,
+        98,
         100
       ],
       "currency": "KRW",
@@ -1089,73 +1056,11 @@
         100,
         100,
         100,
+        100,
         100
       ],
       "currency": "KRW",
       "disclosureUrl": "https://www.plusetf.co.kr/"
-    },
-    "024110": {
-      "yieldBand": "high",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.ibk.co.kr/"
-    },
-    "055550": {
-      "yieldBand": "low",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.shinhangroup.com/"
-    },
-    "086790": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.hanafn.com/"
-    },
-    "017670": {
-      "yieldBand": "low",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.sktelecom.com/"
-    },
-    "030200": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://corp.kt.com/"
-    },
-    "005490": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.posco-inc.com/"
-    },
-    "000810": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.samsungfire.com/"
-    },
-    "005830": {
-      "yieldBand": "mid",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.idbins.com/"
-    },
-    "005935": {
-      "yieldBand": "low",
-      "stability": null,
-      "trend": [],
-      "currency": "KRW",
-      "disclosureUrl": "https://www.samsung.com/sec/aboutsamsung/ir/"
     }
   }
 }
